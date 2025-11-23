@@ -21,15 +21,6 @@ I am currently dedicated to my thesis, which focuses on applying Machine Learnin
     </div>
 </div>
 
-##
-
-<div>
-    <a href="https://beacons.ai/rafaballerini">
-        <img height="100em" src="https://github-readme-stats.vercel.app/api?username=IanEvanovich&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanEvanovich&layout=compact&langs_count=16&theme=dark"/>
-    </a>
-</div>
-
 ## 
 
 <div>

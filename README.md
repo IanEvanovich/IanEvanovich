@@ -13,18 +13,13 @@ I am currently dedicated to my thesis, which focuses on applying Machine Learnin
 
 ---
 
-## 📈 GitHub Stats & Languages
+## 📈 GitHub Languages
 
 <div align="center">
 
 <!-- Linguagens usadas (automático, agora com mais linguagens visíveis) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanEvanovich&layout=compact&langs_count=20&theme=tokyonight"/>
-</a>
-
-<!-- Stats gerais -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanEvanovich&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
 
 </div>

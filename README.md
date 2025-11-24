@@ -11,16 +11,6 @@ I am currently dedicated to my thesis, which focuses on applying Machine Learnin
 * 📊 Modeling/Processing Tools: Reflex-Win, Madagascar, Pyseistr, GprMax, Res2DInv and my Python codes.
 * 🔍 My research is: I develop my own geophysical software, and I work with seismic and GPR, focusing on data processing.
 
-##
-
-<div>
-    <div style="display: inline_block"><br>
-        <img align="center" alt="Ian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img align="center" alt="Ian-Fortran" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg">
-        <img align="center" alt="Ian-Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-    </div>
-</div>
-
 ## 
 
 <div>

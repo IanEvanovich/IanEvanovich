@@ -17,9 +17,9 @@ I am currently dedicated to my thesis, which focuses on applying Machine Learnin
 
 <div align="center">
 
-<!-- Linguagens usadas (automático) -->
+<!-- Linguagens usadas (automático, agora com mais linguagens visíveis) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanEvanovich&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanEvanovich&layout=compact&langs_count=20&theme=tokyonight"/>
 </a>
 
 <!-- Stats gerais -->
